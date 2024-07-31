@@ -9,7 +9,6 @@ Meu nome é [Victor Mendes] e sou um [Estudante]. Tenho paixão por [programaça
 - 🌱 Atualmente, estou aprendendo [Tecnologia/Ferramenta] e estou ansioso para aplicar meus conhecimentos em projetos práticos.
 - 💬 Pergunte-me sobre [jogos].
 - 📫 Você pode me contatar em [].
-- ⚡ Curiosidade: [Uma curiosidade interessante sobre você]
 
 ## Redes sociais
 
